@@ -1,0 +1,74 @@
+.header{
+display: flex;
+justify-content: center;
+align-items: center;
+background-color: azure;
+height: 100px;
+width: auto;
+font-weight: bold;
+font-size: 40PX;
+font-family:'Times New Roman', Times, serif;
+}
+
+body{
+    background-color: bisque;
+}
+*{
+    margin: 0px;
+}
+.box{
+    height: 44px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.box1{
+    background-color: rgba(36, 36, 245,1);
+}
+.box2{
+    background-color: rgba(36, 36, 245,0.9);
+}
+.box3{
+    background-color: rgba(36, 36, 245,0.8);
+}
+.box4{
+    background-color: rgba(36, 36, 245,0.7);
+}
+.box5{
+    background-color: rgba(36, 36, 245,0.6);
+}
+.box6{
+    background-color: rgba(36, 36, 245,0.5);
+}
+.box7{
+    background-color: rgba(36, 36, 245,0.4);
+}
+.box8{
+   background-color: rgb(34, 221, 75);
+}
+.box9{
+    background-color: rgba(230, 32, 203 ,1);
+}
+.box10{
+    background-color: rgba(230, 32, 203 ,0.9);
+}
+.box11{
+    background-color: rgba(230, 32, 203 ,0.8);
+}
+.box12{
+    background-color: rgba(230, 32, 203 ,0.7);
+}
+.box13{
+    background-color: rgba(230, 32, 203 ,0.6);
+}
+.box14{
+    background-color: rgba(230, 32, 203 ,0.5);
+}
+.box15{
+    background-color: rgba(230, 32, 203 ,0.4);
+}
